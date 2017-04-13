@@ -4,8 +4,8 @@
   "private": true,
   "devDependencies": {
     "jest-expo": "^0.3.0",
-    "react-native-scripts": "0.0.26",
-    "react-test-renderer": "~15.4.1"
+    "react-native-scripts": "0.0.27",
+    "react-test-renderer": "~15.5.4"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "expo": "^15.1.0",
-    "react": "~15.4.0",
-    "react-native": "0.42.3",
+    "react": "~15.5.4",
+    "react-native": "0.43.3",
     "styled-components": "^1.4.4"
   }
 }
